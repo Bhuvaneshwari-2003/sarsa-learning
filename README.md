@@ -100,19 +100,19 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-Optimal State Value Functions:
+# Optimal State Value Functions:
 
 ![image](https://github.com/Bhuvaneshwari-2003/sarsa-learning/assets/94828604/e1e704b4-f8eb-42e6-b682-80c5fedf946a)
 
-Optimal Action Value Functions:
+# Optimal Action Value Functions:
 
 ![image](https://github.com/Bhuvaneshwari-2003/sarsa-learning/assets/94828604/3c488abc-a7fd-4cc4-84b4-71baa0dfb54a)
 
-First Visit Monte Carlo Estimates:
+# First Visit Monte Carlo Estimates:
 
 ![image](https://github.com/Bhuvaneshwari-2003/sarsa-learning/assets/94828604/8d6a2570-4437-4714-a85c-631c4da9c45d)
 
-Sarsa Estimates:
+# Sarsa Estimates:
 
 ![image](https://github.com/Bhuvaneshwari-2003/sarsa-learning/assets/94828604/89054d6d-3e16-4894-ba8d-0b741e63052b)
 
